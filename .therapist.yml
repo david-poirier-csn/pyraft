@@ -1,0 +1,10 @@
+actions:
+  black:
+    run: black {files}
+    include:
+      - "*.py"
+  pylint:
+    run: pylint -E {files}
+    include:
+      - "src/**/*.py"
+
