@@ -16,7 +16,7 @@ py==1.9.0
 pylint==2.5.3
 pyparsing==2.4.7
 pytest==6.0.1
-PyYAML==5.3.1
+PyYAML==5.4
 regex==2020.7.14
 six==1.15.0
 therapist==2.1.0
